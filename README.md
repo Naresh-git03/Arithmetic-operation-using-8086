@@ -57,11 +57,12 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|<img width="640" height="480" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/11ccedab-74aa-46e5-ac42-68bffe93d6f3" />|<img width="640" height="480" alt="Screenshot (7)" src="https://github.com/user-attachments/assets/cb528ee9-c0cf-4987-9bbc-7886f95a74a9" />|
 
 #### Manual Calculations
 
-(Add your calculation here)
+|![IMG-20250901-WA0019](https://github.com/user-attachments/assets/bcfe02ad-8dac-490d-bd79-7e2d9a01090a)|
+
 
 ---
 
@@ -90,11 +91,11 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|<img width="640" height="480" alt="Screenshot (10)" src="https://github.com/user-attachments/assets/4041575d-48de-48b3-802b-a9f10b7cbc01" />|<img width="640" height="480" alt="Screenshot (11)" src="https://github.com/user-attachments/assets/42446b8e-5577-4a81-8e7b-a0590e66fde3" />|
 
 #### Manual Calculations
 
-(Add your calculation here)
+|![IMG-20250901-WA0018](https://github.com/user-attachments/assets/0196abb1-125a-4511-9f9f-2429f34a0a3f)|
 
 ---
 
@@ -139,11 +140,12 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|<img width="640" height="480" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/67bf4dcc-4931-4ceb-8362-16f3a0c412d7" />|<img width="640" height="480" alt="Screenshot (12)" src="https://github.com/user-attachments/assets/2c885f8f-ad1b-42c1-b73b-704dd41e9a24" />|
 
 #### Manual Calculations
 
-(Add your calculation here)
+|![IMG-20250901-WA0013](https://github.com/user-attachments/assets/7ad22ff1-de4e-4b8d-9877-9d47579bf2b8)|
+
 
 ---
 
@@ -184,11 +186,12 @@ END
 
 | MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|<img width="640" height="480" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/2b722ad0-6bdc-491b-b36b-3a319a60c4e8" />|<img width="640" height="480" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/2926f570-6e4a-417a-8f6a-038fc6b0d9ce" />|
 
 #### Manual Calculations
 
-(Add your calculation here)
+|![IMG-20250901-WA0017](https://github.com/user-attachments/assets/e43044c3-a5f6-46ab-b84a-01ef04a5ae2e)|
+
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
